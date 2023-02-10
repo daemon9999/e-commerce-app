@@ -1,0 +1,7 @@
+export {FaUser} from "react-icons/fa"
+export {MdMessage, MdOutlineSend} from "react-icons/md"
+export {AiFillHeart, AiOutlineMenu} from "react-icons/ai"
+export {HiShoppingCart} from "react-icons/hi"
+export {BsChevronDown} from "react-icons/bs"
+export {BiSearchAlt2, BiShieldQuarter} from "react-icons/bi"
+export {TiShoppingBag} from "react-icons/ti"

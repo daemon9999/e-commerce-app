@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Smart watches",
+        "price": 19,
+        "img": "smartwatch2"
+    },
+    {
+        "title": "Cameras",
+        "price": 89,
+        "img": "camera"
+    },
+    {
+        "title": "Headphones",
+        "price": 10,
+        "img": "headphone"
+    },
+    {   
+        "title": "Kettles",
+        "price": 90,
+        "img": "kettle"
+    },
+    {
+        "title": "Gaming set",
+        "price": 35,
+        "img": "gamingheadphone"
+    },
+    {
+        "title": "Laptops & PC",
+        "price": 340,
+        "img": "laptop"
+    },
+    {
+        "title": "Smartphones",
+        "price": 19,
+        "img": "smartphone"
+    },
+    {
+        "title": "Iphones",
+        "price": 240,
+        "img": "iphone"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Soft chairs",
+        "price": 19,
+        "img": "softchair"
+    },
+    {
+        "title": "Sofa & chair",
+        "price": 19,
+        "img": "sofachair"
+    },
+    {
+        "title": "Kitchen dishes",
+        "price": 19,
+        "img": "kitchenchair"
+    },
+    {
+        "title": "Smart watches",
+        "price": 19,
+        "img": "smart"
+    },
+    {
+        "title": "Kitchen mixer",
+        "price": 100,
+        "img": "kitchenmixer"
+    },
+    {
+        "title": "Blenders",
+        "price": 39,
+        "img": "blender"
+    },
+    {
+        "title": "Home appliance",
+        "price": 19,
+        "img": "homeappliance"
+    },
+    {
+        "title": "Plant",
+        "price": 10,
+        "img": "plant"
+    }
+]
