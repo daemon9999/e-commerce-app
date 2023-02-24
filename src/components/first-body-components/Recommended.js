@@ -3,7 +3,7 @@ import React from 'react'
 import items from "api/items.json"
 const Recommended = () => {
   return (
-    <div className='flex flex-col mt-3 gap-y-5'>
+    <div className='flex flex-col mt-3 gap-y-5 mx-auto w-[90%]'>
         <Title>Recommended items</Title>
         <div className='grid grid-cols-5 gap-5'>
             {items.map(item => (

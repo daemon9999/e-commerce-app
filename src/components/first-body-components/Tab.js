@@ -5,7 +5,7 @@ const Tab = () => {
   const [activeTab, setActiveTab] = useState(0);
   
   return (
-    <div className="bg-white mb-[30px] flex py-5 pl-[14px] pr-5 items-center gap-x-[11px] w-full border mt-5  rounded">
+    <div className="bg-white mb-[30px] flex py-5 pl-[14px] pr-5 items-center gap-x-[11px] mx-auto border mt-5 w-[90%]  rounded">
       <div className="flex flex-col flex-1  w-[250px] h-[373px]  overflow-auto">
         {categories.map((category, key) => (
           <button

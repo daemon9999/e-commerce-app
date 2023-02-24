@@ -4,7 +4,7 @@ const ItemsList = ({ categoryTitle, products, categoryBackground }) => {
 
     
   return (
-    <div className="flex  mb-5  w-full bg-white  ">
+    <div className="flex  mb-5  w-[90%] mx-auto bg-white  ">
       <div className="w-[280px] min-w-[280px] h-full relative  ">
         <img src={`/images/${categoryBackground}.png`} alt="" className="w-full h-full rounded-l" />
         <div className="absolute top-5 left-5 flex flex-col gap-y-[18px] w-[60%]">

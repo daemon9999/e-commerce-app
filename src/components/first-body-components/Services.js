@@ -3,7 +3,7 @@ import React from "react";
 import { BiSearchAlt2, TiShoppingBag, MdOutlineSend, BiShieldQuarter } from "icons";
 const Services = () => {
   return (
-    <div className="mt-[30px] flex flex-col gap-y-6 mb-5">
+    <div className="mt-[30px] flex flex-col gap-y-6 mb-5 mx-auto w-[90%]">
       <Title>Our extra services</Title>
       <div className="grid grid-cols-4 items-center gap-x-5 ">
         <div className="flex flex-col  bg-white relative hover:scale-95 cursor-pointer duration-600 transition-transform">

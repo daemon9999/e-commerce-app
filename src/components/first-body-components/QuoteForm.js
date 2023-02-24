@@ -3,7 +3,7 @@ import categories from "api/categories.json"
 const QuoteForm = () => {
     const [category, setCategory] = useState("")
   return (
-    <div className="my-5 rounded-md overflow-hidden w-full flex items-start pt-[30px] pb-11 justify-between pr-[31px] pl-10 bg-form bg-no-repeat bg-cover h-[480px] before:bg-gradient-to-r before:from-[rgb(44,124,241,0.9)] before:to-[rgb(0,209,255,0.4)]  before:absolute before:inset-0 relative ">
+    <div className="my-5 rounded-md mx-auto overflow-hidden w-[90%] flex items-start pt-[30px] pb-11 justify-between pr-[31px] pl-10 bg-form bg-no-repeat bg-cover h-[480px] before:bg-gradient-to-r before:from-[rgb(44,124,241,0.9)] before:to-[rgb(0,209,255,0.4)]  before:absolute before:inset-0 relative ">
       <div className="text-white flex flex-col justify-center z-10 w-[40%] gap-y-4">
         <h2 className="font-bold text-3xl">
           An easy way to send

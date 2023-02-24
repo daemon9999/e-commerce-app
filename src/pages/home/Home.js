@@ -14,7 +14,7 @@ const Home = () => {
     
   
   return (
-    <div className='px-[130px] flex flex-col container '>
+    <div className=' flex flex-col container '>
       <Tab/>
       <Offers/>
       <ItemsList categoryTitle={"Home and outdoor"} products={products1} categoryBackground={"furniture"}/>

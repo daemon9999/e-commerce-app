@@ -4,7 +4,7 @@ import regions from "api/regions.json";
 import ReactCountryFlag from "react-country-flag";
 const Regions = () => {
   return (
-    <div className="flex flex-col gap-y-6 mb-5 ">
+    <div className="flex flex-col gap-y-6 mb-5 mx-auto w-[90%]">
       <Title>Suppliers by region</Title>
       <div className="grid grid-cols-5 gap-x-[18px] gap-y-[10px]">
         {regions.map((region) => (

@@ -33,7 +33,7 @@ const Offers = () => {
   ];
   if (isAvailable) {
     return (
-      <div className="flex items-center  overflow-hidden border border-border rounded-md h-[240px] mb-5">
+      <div className="flex items-center  overflow-hidden border border-border rounded-md h-[240px] mb-5 mx-auto w-[90%]">
         <div className="flex flex-col py-5 pr-10 pl-5 w-[25%]  bg-gray-100 h-full ">
           <h5 className="font-semibold text-xl">Deals and offers</h5>
           <p className="text-gray-500 mb-4">Hygiene equipments</p>
